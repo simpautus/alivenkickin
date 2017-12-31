@@ -15,10 +15,10 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/simpautus/alivenkickin";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://glacial-tundra-38951.herokuapp.com/";
     }
 }

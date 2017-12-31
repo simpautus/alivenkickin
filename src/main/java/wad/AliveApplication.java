@@ -11,7 +11,7 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/simpautus/alivenkickin";
     }
 
     public static String travisUrl() {
